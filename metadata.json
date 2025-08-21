@@ -1,0 +1,5 @@
+{
+  "name": "Image Format Converter",
+  "description": "A powerful and easy-to-use web application for converting images between popular formats like PNG, JPG, and WEBP. Built with a modern interface, it provides instant, client-side conversions without uploading your files to a server, ensuring privacy and speed.",
+  "requestFramePermissions": []
+}
